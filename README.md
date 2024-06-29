@@ -1,1 +1,1 @@
-I built a analog clock by using Html,Css,JavaScript.U write simple Html,CSS and JavaScript to understand the basic concepts.
+I built a analog clock by using Html,Css,JavaScript.I write simple Html,CSS and JavaScript to understand the basic concepts.Basically i make this analog-clock to understand javascript.This kind of mini projects really helps to understand the javascripts basics.
